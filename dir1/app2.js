@@ -1,0 +1,1 @@
+console.log("hello iam in dir 1")
